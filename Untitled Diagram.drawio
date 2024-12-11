@@ -55,7 +55,7 @@
         <mxCell id="aH8iKfXsXHRnLKes4spm-18" value="Notifications sound" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="aH8iKfXsXHRnLKes4spm-15">
           <mxGeometry x="180" y="160" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aH8iKfXsXHRnLKes4spm-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aH8iKfXsXHRnLKes4spm-15" source="aH8iKfXsXHRnLKes4spm-17" target="aH8iKfXsXHRnLKes4spm-18">
+        <mxCell id="aH8iKfXsXHRnLKes4spm-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aH8iKfXsXHRnLKes4spm-15" source="aH8iKfXsXHRnLKes4spm-17" target="aH8iKfXsXHRnLKes4spm-18">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="-80" as="sourcePoint" />
             <mxPoint x="400" y="-80" as="targetPoint" />
